@@ -4,8 +4,6 @@ This repository showcases a **manual QA testing project** on the Twitter/X web a
 It includes:
 
 - **Test Cases:** `Twitter_Web_App_Manual_Testing.xlsx`  
-- **Bug Reports:** `bug-reports.md`  
-- **Test Summary:** `test-summary.md`
 
 ---
 
