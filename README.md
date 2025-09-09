@@ -17,9 +17,6 @@ It includes:
 - No critical bugs were found during testing.
 - All edge cases were tested, and results are documented in the Test Summary.
 
-3. **Test Summary**  
-   - Overall test results, pass/fail metrics, and recommendations.
-
 ---
 
 ## Skills Demonstrated
